@@ -1,0 +1,40 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2013
+VisualStudioVersion = 12.0.40629.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "nginxwebproject", "nginxwebproject\nginxwebproject.csproj", "{817542AB-A886-425A-A359-9C23AD02BA8D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RedisProvider.SessionProvider", "RedisProvider.SessionProvider\RedisProvider.SessionProvider.csproj", "{D5C7FB09-48DC-46B9-8443-85646878B8E9}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CommonFunDAL", "CommonFunDAL\CommonFunDAL.csproj", "{50C14F1D-FBA4-4E6D-A945-CA56AC2C201C}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DBHelpers", "DBHelpers\DBHelpers.csproj", "{DECB23E4-A87D-433F-9066-0428C2C6466E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{817542AB-A886-425A-A359-9C23AD02BA8D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{817542AB-A886-425A-A359-9C23AD02BA8D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{817542AB-A886-425A-A359-9C23AD02BA8D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{817542AB-A886-425A-A359-9C23AD02BA8D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D5C7FB09-48DC-46B9-8443-85646878B8E9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D5C7FB09-48DC-46B9-8443-85646878B8E9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D5C7FB09-48DC-46B9-8443-85646878B8E9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D5C7FB09-48DC-46B9-8443-85646878B8E9}.Release|Any CPU.Build.0 = Release|Any CPU
+		{50C14F1D-FBA4-4E6D-A945-CA56AC2C201C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{50C14F1D-FBA4-4E6D-A945-CA56AC2C201C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{50C14F1D-FBA4-4E6D-A945-CA56AC2C201C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{50C14F1D-FBA4-4E6D-A945-CA56AC2C201C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{DECB23E4-A87D-433F-9066-0428C2C6466E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DECB23E4-A87D-433F-9066-0428C2C6466E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DECB23E4-A87D-433F-9066-0428C2C6466E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DECB23E4-A87D-433F-9066-0428C2C6466E}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

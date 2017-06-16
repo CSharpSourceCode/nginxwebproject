@@ -1,0 +1,13 @@
+F:\VSSourceCode\vs2013\Projects\nginxwebproject\CommonFunDAL\bin\Debug\CommonFunDAL.dll
+F:\VSSourceCode\vs2013\Projects\nginxwebproject\CommonFunDAL\bin\Debug\CommonFunDAL.pdb
+F:\VSSourceCode\vs2013\Projects\nginxwebproject\CommonFunDAL\bin\Debug\RedisProvider.SessionProvider.dll
+F:\VSSourceCode\vs2013\Projects\nginxwebproject\CommonFunDAL\bin\Debug\ServiceStack.Redis.dll
+F:\VSSourceCode\vs2013\Projects\nginxwebproject\CommonFunDAL\bin\Debug\ServiceStack.Interfaces.dll
+F:\VSSourceCode\vs2013\Projects\nginxwebproject\CommonFunDAL\bin\Debug\RedisProvider.SessionProvider.pdb
+F:\VSSourceCode\vs2013\Projects\nginxwebproject\CommonFunDAL\bin\Debug\ServiceStack.Redis.pdb
+F:\VSSourceCode\vs2013\Projects\nginxwebproject\CommonFunDAL\bin\Debug\ServiceStack.Redis.xml
+F:\VSSourceCode\vs2013\Projects\nginxwebproject\CommonFunDAL\bin\Debug\ServiceStack.Interfaces.pdb
+F:\VSSourceCode\vs2013\Projects\nginxwebproject\CommonFunDAL\obj\Debug\CommonFunDAL.csprojResolveAssemblyReference.cache
+F:\VSSourceCode\vs2013\Projects\nginxwebproject\CommonFunDAL\obj\Debug\CommonFunDAL.dll
+F:\VSSourceCode\vs2013\Projects\nginxwebproject\CommonFunDAL\obj\Debug\CommonFunDAL.pdb
+F:\VSSourceCode\vs2013\Projects\nginxwebproject\CommonFunDAL\bin\Debug\Newtonsoft.Json.dll
